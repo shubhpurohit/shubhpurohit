@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhpurohit
+- 👋 Hi, I’m Shubham
 - 👀 I’m interested in DSA and AI
 - 🌱 I’m currently learning Java along with DSA
 - 💞️ I’m looking to collaborate on learning based projects
